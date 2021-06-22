@@ -10,4 +10,5 @@ The license for this software is free and open/libre source permissive GPLv3 or 
 
 ## SEE ALSO
 
+ * EDITOR FIRST AWESOME LISTS
  * DEVELOPER FIRST AWESOME LISTS
