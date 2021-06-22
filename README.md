@@ -2,7 +2,7 @@
 
 me
 
-<blockquote><em>FOR DEVELOPER FIRST LIFE</em></blockquote>
+<blockquote><em>FOR EDITOR FIRST LIFE</em></blockquote>
 
 ## License
 
