@@ -4,9 +4,11 @@ me
 
 <blockquote><em>FOR EDITOR FIRST LIFE</em></blockquote>
 
-## License
+## LICENSE
 
 The license for this software is free and open/libre source permissive GPLv3 or later, at your choices.
+
+## INSTALL
 
 `<GRRTHELION^SBOT>` `[2849]`
 
